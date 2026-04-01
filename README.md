@@ -1,96 +1,95 @@
-<!-- ===================== -->
-<!--      PROFILE README   -->
-<!-- ===================== -->
+> Version française: [README_FR.md](./README_FR.md)
 
-<h1 align="center">👋 Hi, I'm a Small Developer</h1>
+<h1 align="center">NYXEIRA</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CF7C2&center=true&vCenter=true&width=435&lines=Just+a+small+developer;Coding+in+my+free+time;Android+%7C+Discord+Bots+%7C+GMod" alt="Typing SVG" />
+  Indie developer from Belgium building game systems, VR tools, immersive UI, and technical experiences across multiple engines and platforms.
+</p>
+
+<p align="center">
+  <a href="https://store.steampowered.com/app/4361190/SLIME_WATCH/"><img src="https://img.shields.io/badge/Steam-Slime%20Watch-1b2838?style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://modrinth.com/mod/pale-echoes"><img src="https://img.shields.io/badge/Modrinth-Pale%20Echoes-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
+  <a href="https://discord.com/invite/8dawhynPdw"><img src="https://img.shields.io/badge/Discord-Slime%20Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-🇫🇷 **Français**  
-> Juste un petit développeur qui développe pendant son temps libre.  
-> Je crée des applications Android, des bots Discord, des addons Garry's Mod  
-> et d'autres petits projets par passion.
+I’m a developer who likes building things that feel usable, clean, and distinctive.
+My work currently moves between VR tooling, multiplayer game systems, Roblox gameplay flow, Minecraft modding, and custom UI experiences.
 
-🇬🇧 **English**  
-> Just a small developer who codes in his free time.  
-> I work on Android applications, Discord bots, Garry's Mod addons,  
-> and various side projects for fun and learning.
+I like projects that mix:
 
----
-
-## 🚀 What I Do
-
-- 📱 **Android applications**
-- 🤖 **Discord bots**
-- 🎮 **Garry's Mod addons**
-- 🛠️ Small tools & experimental projects
-- 🌱 Always learning new things
+- gameplay logic
+- technical systems
+- UI / UX work
+- tool development
+- production-focused iteration
 
 ---
 
-## 🧰 Technologies & Tools
+## Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,nodejs,js,cs,git,github,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,git,github,visualstudio,idea,windows&perline=5" />
 </p>
 
+I mainly work with:
+
+- **C++** for VR systems, utilities, desktop integrations, and performance-oriented features
+- **Java** for Minecraft modding with Forge
+- **Luau** for Roblox gameplay and multiplayer place logic
+- **HTML / CSS / JavaScript** for embedded UI, overlays, and tooling interfaces
+- **Git / GitHub** for project structure and delivery
+
 ---
 
-## 📊 GitHub Stats
+## What I Build
+
+- **VR tools and in-headset UI**
+- **Roblox gameplay systems and lobby/game flows**
+- **Minecraft modding projects**
+- **Custom desktop / utility tools**
+- **Stylized, readable, production-minded interfaces**
+
+---
+
+## Featured Work
+
+### Slime Watch
+
+**Slime Watch** is a released Steam project focused on VR utility workflows, in-headset interaction, overlays, and evolving immersive UI.
+
+- Steam: https://store.steampowered.com/app/4361190/SLIME_WATCH/
+
+### Pale Echoes
+
+**Pale Echoes** is a released Modrinth Minecraft project built as a multiplayer psychological horror experience with slow tension and asymmetric encounters.
+
+- Modrinth: https://modrinth.com/mod/pale-echoes
+
+---
+
+## Studio & Community
+
+I’m also building under **Slime Studio**.
+
+- Discord: https://discord.com/invite/8dawhynPdw
+
+---
+
+## Focus
+
+Right now, I’m especially focused on:
+
+- better VR interaction design
+- stronger game feel and system architecture
+- cleaner bilingual presentation
+- projects that feel polished, memorable, and technically solid
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NYTHERAAMD&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NYTHERAAMD&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🧪 Projects
-
-- 📱 **Android Apps** – Personal & experimental apps  
-- 🤖 **Discord Bots** – Moderation, fun, utilities  
-- 🎮 **GMod Addons** – Gameplay & utility addons  
-- 🧠 **Other Stuff** – Random ideas & learning projects  
-
-*(Most projects are made during my free time)*
-
----
-
-## 🏷️ Naming Convention
-
-My repositories follow a strict naming convention to identify the project type:
-
-| Prefix | Type | Example |
-| :--- | :--- | :--- |
-| **`RB-`** | 🧱 **Roblox Project** | `RB-TD_AMADEUSE` |
-| **`AN-`** | 📱 **Android App** | `AN-MUSIQUE_AMADEUSE` |
-| **`WEB-`** | 🌐 **Web Project** | `WEB-AMADEUSE_WEB` |
-| **`IA-`** | 🧠 **AI Agent** | `IA-AGENT_AMADEUSE` |
-| **`JS-`** | 🤖 **Node.js / Bot** | `JS-BOT_AMADEUSE` |
-| **`SYS-`** | 🔧 **System / Script** | `SYS-SCRIPTS_AMADEUSE` |
-| **`DOC-`** | 📚 **Documentation** | `DOC-AMADEUSE_DOCS` |
-
----
-
-## 🌍 Find Me
-
-<p align="center">
-  <a href="https://github.com/NYTHERAAMD">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/TON_SERVEUR">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>💡 Coding for fun, learning step by step.</i>
+  <i>Building things I actually want to use, play, and keep improving.</i>
 </p>
