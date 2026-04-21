@@ -1,92 +1,67 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1020,25:1d4ed8,55:7c3aed,100:22d3ee&text=NYXEIRA&fontAlignY=38&desc=Building%20connected%20software%2C%20immersive%20tools%20and%20gaming-first%20products&descAlignY=58&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b1020,25:172554,55:6d28d9,100:06b6d4&text=NYXEIRA&fontAlignY=38&desc=Building%20software,%20platforms%20and%20connected%20experiences&descAlignY=58&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=1000&lines=Indie+developer+from+Belgium;Creating+products+across+desktop%2C+web%2C+mobile+and+VR;Currently+building+SlimeChat%2C+SlimeTV+and+the+next+step+of+Slime+Watch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=950&lines=Indie+developer+from+Belgium;Currently+building+SlimeChat%2C+SlimeTV+and+the+next+version+of+Slime+Watch;Desktop+%E2%80%A2+Web+%E2%80%A2+Mobile+%E2%80%A2+VR" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://store.steampowered.com/app/4361190/SLIME_WATCH/">
     <img src="https://img.shields.io/badge/Steam-Slime%20Watch-171a21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://modrinth.com/mod/pale-echoes">
-    <img src="https://img.shields.io/badge/Modrinth-Pale%20Echoes-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Belgium-Indie%20Developer-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Product%20Design-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Connected%20Apps-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Immersive%20Software-06b6d4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platforms-PC%20%2F%20Web%20%2F%20Mobile%20%2F%20VR-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Belgium-Indie%20Developer-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Connected%20Products-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platforms-PC%20%2F%20Web%20%2F%20Mobile%20%2F%20VR-0ea5e9?style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="center">Not building random projects. Building products meant to grow into an ecosystem.</h3>
+## About
 
-<p align="center">
-I design and develop software with identity — products that feel connected, useful, and built to evolve over time.
-</p>
+I’m an indie developer from Belgium working on software that sits between communication, media, interfaces, desktop tools, and immersive experiences.
 
----
+I’m not interested in filling a profile with random experiments just to look busy.  
+What I care about is building projects that can actually grow, connect together, and become real products.
 
-## Overview
-
-I’m an indie developer from Belgium working on software, interfaces, and platform ideas that sit between communication, media, immersive tools, and gaming-focused experiences.
-
-What drives my work is simple: I care about projects that feel like **real products**.  
-Not throwaway experiments. Not empty prototypes. Not just technical demos.
-
-I like building things that have:
-
-- a strong visual identity
-- a clear purpose
-- room to scale into something bigger
-- cross-platform thinking from the start
-- a balance between usability, design, and technical depth
-
-Right now, most of my attention goes into a growing set of projects connected by the same direction:  
-**build better tools, better interfaces, and better experiences for people who actually use them every day.**
+Most of what I’m doing right now revolves around one direction:
+creating a small ecosystem of apps and tools built for people who spend their time around games, media, communities, and connected platforms.
 
 ---
 
-# Current Projects
+# Projects
 
 ## SlimeChat
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Development-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completion-35%25-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-35%25-22c55e?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://geps.dev/progress/35?dangerColor=7f1d1d&warningColor=f59e0b&successColor=22c55e" alt="SlimeChat progress bar" />
 </p>
 
-**SlimeChat** is currently the main project.
+**SlimeChat** is the main project I’m building right now.
 
-It is being built as a gaming-first communication platform — something that sits somewhere between community chat, media sharing, platform presence, and creator-oriented interaction.
+The idea behind it is simple: I don’t want to make another empty chat app.  
+I want to build something that feels closer to a real platform for gamers — a place that mixes communication, presence, media, and the kind of features that usually end up split across too many separate apps.
 
-The goal is not to make “just another chat app”.
-The goal is to build a platform that feels more alive, more connected, and more naturally adapted to how gamers actually communicate, share, and stay present across devices.
+It takes inspiration from spaces like Discord, Medal, and other platform-oriented tools, but the goal is not to copy them.
+The goal is to build something more personal, more connected, and more flexible as a long-term product.
 
-### Current direction
+At the moment, SlimeChat already has a mobile version through **PWA**, but that is not where I want it to stop.
+The real objective is to push it into proper applications:
+a stronger **PC app**, a better **browser experience**, and eventually a **real mobile app** instead of relying on the current web-based approach.
 
-- real-time messaging
-- community spaces
-- stronger desktop experience
-- browser version
-- transition from a PWA-based mobile version to a true app
-- future ecosystem connectivity
-- media and clipping-oriented features
+There is still a lot missing.
+The clip system is not there yet.
+The built-in video editing side is not there yet.
+A big part of the work still needs to happen on the desktop application so the whole platform can actually move toward the version I have in mind.
 
-### Important note
-
-The clip system and built-in editor are part of the vision, but they are **not implemented yet**.  
-A lot of work still has to go into the PC application to properly push the platform forward and unlock the broader feature set.
+What matters most right now is not adding fake complexity.
+It’s building the real base first:
+a cleaner app structure, better platform logic, stronger foundations, and something solid enough to keep expanding without collapsing under its own weight.
 
 ---
 
@@ -98,30 +73,24 @@ A lot of work still has to go into the PC application to properly push the platf
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Phase-R%26D%20%2F%20System%20Exploration-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Phase-Research%20%2F%20Architecture-374151?style=flat-square" />
 </p>
 
-**SlimeTV** is a more experimental project, built around the idea of reviving an old **Surface 2** and turning it into a lightweight media-oriented system.
+**SlimeTV** is a more experimental project, but the idea behind it is very concrete.
 
-The concept is to create something close in spirit to an **Android TV-like experience**, but adapted to older hardware and tied into my own ecosystem.
+I want to take an old **Surface 2** and turn it into something useful again instead of leaving it as dead hardware.
+The goal is to build a lightweight system that feels closer to an **Android TV-style experience**, but adapted to older hardware and tied into the same ecosystem as SlimeChat.
 
-It’s not just about getting a device to boot something custom.
-It’s about making old hardware useful again through a cleaner purpose: media, simplicity, updates, and optional platform integration.
+This is not just about putting a custom screen on an old device.
+It’s about rebuilding a purpose for it:
+watching content, running a clean media interface, receiving messages or notifications in the corner of the screen, and being able to turn those features off when they are not wanted.
 
-### Planned direction
+Automatic updates are part of the vision too.
+I want it to feel like an actual product, not like a one-time hack that works once and then gets abandoned.
 
-- custom UI focused on media use
-- automatic updates
-- lightweight deployment
-- optional SlimeChat integration
-- top-right message notifications
-- toggleable notification behavior
-- a practical second life for aging hardware
-
-### Current state
-
-This project is still open in scope.
-The vision is there, but the architecture and exact direction are still being shaped.
+This project is still undefined compared to SlimeChat.
+The direction exists, the use case makes sense, but the final architecture is still open.
+For now it’s less about pretending it is far along, and more about finding the right way to make the device genuinely worth using again.
 
 ---
 
@@ -131,58 +100,39 @@ The vision is there, but the architecture and exact direction are still being sh
   <a href="https://store.steampowered.com/app/4361190/SLIME_WATCH/">
     <img src="https://img.shields.io/badge/Steam-Released-171a21?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Rework-Major%20Refonte%20Planned-f59e0b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rework-Planned-f59e0b?style=for-the-badge" />
 </p>
 
 **Slime Watch** is already released on Steam.
 
-It represents part of my work around VR utility workflows, immersive interaction, overlays, and interface ideas built for in-headset use.
-The project is out, but it is not in its final form.
+It represents my work on VR-oriented software, interface ideas, immersive utility workflows, and in-headset interaction.
+The project is live, which matters, but I don’t see it as finished.
 
-A major refactor / redesign is planned, with the objective of pushing it far beyond its current state in terms of structure, usability, clarity, and overall quality.
+A major rework is planned because I want it to become much stronger than what it is now.
+Not just visually, but structurally.
+Cleaner design, better flow, better usability, better long-term direction.
 
-### Focus of the next phase
-
-- better interaction design
-- cleaner flow
-- stronger foundations
-- better long-term maintainability
-- a more complete and coherent VR experience
+For me, shipping something is important.
+But what matters just as much is being able to look at it afterwards and say: this still deserves to grow.
 
 ---
 
-# Released Work
+# What I’m Actually Building Toward
 
-## Pale Echoes
+More and more, my work is moving in the same direction:
 
-<p align="center">
-  <a href="https://modrinth.com/mod/pale-echoes">
-    <img src="https://img.shields.io/badge/Modrinth-Available-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" />
-  </a>
-</p>
+- products instead of disconnected prototypes
+- apps that can connect together instead of living alone
+- stronger desktop software
+- better cross-platform experiences
+- cleaner interfaces with more identity
+- software that feels built to stay, not built to be forgotten
 
-**Pale Echoes** is a released project available on Modrinth.
+That is the real point behind everything here.
 
-It was built as a multiplayer psychological horror experience with a slower, heavier atmosphere and a stronger mood-driven identity than a typical content-focused release.
-
-Even outside of my larger platform work, I still care a lot about making projects feel distinctive rather than interchangeable.
-
----
-
-# Product Direction
-
-More and more, my work is moving toward a clear direction:
-
-- products instead of isolated experiments
-- systems that connect together
-- cleaner interfaces with stronger identity
-- better presence across desktop, web, mobile, and VR
-- software that feels made for actual long-term use
-
-That direction matters a lot to me.
-
-I’m not interested in filling a profile with disconnected ideas just to show variety.  
-I’d rather build fewer things with more intent — things that can grow, improve, and become part of something larger.
+Even when the projects are different, they are not random.
+They all move toward the same idea:
+build tools, apps, and experiences that can evolve into something bigger than a single release.
 
 ---
 
@@ -192,44 +142,43 @@ I’d rather build fewer things with more intent — things that can grow, impro
   <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,git,github,visualstudio,idea,windows&perline=5" />
 </p>
 
-### Main tools and languages
+I mainly work with:
 
-- **C++** for desktop systems, utilities, VR-oriented features, and performance-minded development
-- **Java** for game-related systems and modding work
-- **JavaScript / HTML / CSS** for interfaces, browser experiences, overlays, and embedded tools
-- **Git / GitHub** for project structure, versioning, and iteration
+- **C++** for desktop systems, utilities, and performance-focused features
+- **Java** for game-related development and modding work
+- **JavaScript / HTML / CSS** for interfaces, web apps, overlays, and embedded tools
+- **Git / GitHub** for structure, iteration, and delivery
 
 ---
 
-# Snapshot
+# Current Snapshot
 
 ```txt
-Main focus      : SlimeChat
-Current progress: 35%
-Experimental R&D: SlimeTV
-Released title  : Slime Watch
-Next big step   : stronger apps, stronger ecosystem, stronger product identity
+Main focus   : SlimeChat
+Progress     : 35%
+Experimental : SlimeTV
+Released     : Slime Watch
+Direction    : stronger apps, stronger ecosystem, stronger identity
 ````
 
 ---
 
 # Philosophy
 
-I want the things I build to feel like they belong somewhere.
+I like building things that feel like they belong somewhere.
 
-Not rushed.
-Not disposable.
-Not made to be forgotten after one release.
+Not filler projects.
+Not copy-paste work.
+Not “look, I made something” and then never touching it again.
 
-Just solid ideas, shaped into products that can keep evolving.
+Just products, systems, and ideas that can keep improving over time.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0b1020,25:1d4ed8,55:7c3aed,100:22d3ee" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0b1020,25:172554,55:6d28d9,100:06b6d4" />
 </p>
 
 <p align="center">
-  <b>Building connected software, immersive tools, and products designed to keep growing.</b>
+  <b>Building software that can grow into a real ecosystem.</b>
 </p>
-
