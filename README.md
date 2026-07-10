@@ -32,7 +32,7 @@ Most of my source repositories are private because they contain active products,
 
 ## Technical stack
 
-### Languages
+### Programming languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk)
@@ -44,9 +44,35 @@ Most of my source repositories are private because they contain active products,
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Platforms and tools
+### Frontend and desktop
 
-Node.js · React · Next.js · Express · Electron · Discord.js · MongoDB · Redis · SQLite · Docker · Caddy · Nginx · GitHub Actions · Linux · Windows · SteamVR · OpenVR · Paper · Geyser · Maven
+React · Next.js · Electron · HTML5 · CSS3 · responsive UI · immersive UI
+
+### Backend and real-time systems
+
+Node.js · Express · Discord.js · REST APIs · authentication · WebSockets · background services
+
+### Databases and data
+
+MongoDB · Redis · SQLite · SQL · data migrations · caching
+
+### C++ and VR development
+
+C++ · Visual Studio · SteamVR · OpenVR · native Windows development · controller bindings · VR overlays · ImGui
+
+**Slime Watch** is a major C++ project in my portfolio: a released SteamVR utility suite with a native VR core, wrist-based interaction, desktop overlays, international controller bindings, and headset-focused interfaces.
+
+### Game and Minecraft engineering
+
+Paper · Java plugins · Geyser · Floodgate · BetterHud · Skript · custom resource packs · Java/Bedrock interoperability
+
+### Infrastructure and DevOps
+
+Linux · Windows · Docker · Docker Compose · Caddy · Nginx · GitHub Actions · VPS administration · reverse proxies · TLS · service deployment
+
+### Build systems and engineering tools
+
+Git · GitHub · Maven · npm · Visual Studio · FFmpeg · YAML · Bash automation
 
 ## What I do
 
