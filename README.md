@@ -1,95 +1,131 @@
 <div align="center">
 
-# Hi, I'm Nyxeira 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:6d28d9,100:22c55e&height=210&section=header&text=NYXEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Slime%20Studio&descAlignY=58&descSize=18)
 
-### Software developer · Product builder · Founder of Slime Studio
-
-[![Slime Studio](https://img.shields.io/badge/Slime_Studio-Builder-7c3aed?style=for-the-badge)](#featured-work)
-[![VR](https://img.shields.io/badge/VR-SteamVR-1b2838?style=for-the-badge&logo=steam)](#featured-work)
-[![Backend](https://img.shields.io/badge/Backend-Systems-0f766e?style=for-the-badge)](#technical-stack)
-
-I design and build complete digital products—from backend services and community platforms to VR utilities, game infrastructure, automation, and production deployments.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=C%2B%2B+%26+SteamVR+Engineer;Building+Amadeuse+OS+on+Arch+Linux;Creator+of+Slime+Watch+and+Slime+Chat;Full-stack%2C+Infrastructure+%26+Game+Development)](https://git.io/typing-svg)
 
 </div>
 
-## About me
+```text
+                        .-++++++++++-.              nyxeira@amadeuse
+                     .++++++++++++++++.             -----------------
+                   .++++++========++++++.           Identity     Nyxeira / Slime Studio
+                  +++++==============+++++          Role         Software Engineer & Builder
+                 ++++===  ●      ●  ===++++         OS           Amadeuse OS
+                 ++++===     ▄▄     ===++++         Base         Arch Linux
+                 +++++===  \____/  ===+++++         Desktop      Hyprland
+                  +++++============+++++            Main stack   C++ · TS · JS · Java · Python
+                    ++++++======++++++               VR           SteamVR · OpenVR · ImGui
+                      ++++++++++++                   Web          React · Next.js · Node.js
+                    ___/  SLIME  \___                Systems      Docker · Linux · Nginx · Caddy
+                   /_________________\               Building     Products, worlds & communities
+```
 
-I am a multidisciplinary developer focused on turning ambitious ideas into working products. My work spans product architecture, user experience, backend engineering, real-time systems, infrastructure, automation, and long-term operations.
+## `whoami`
 
-Most of my source repositories are private because they contain active products, internal infrastructure, professional work, or unreleased systems. This profile provides a transparent overview of what I build without exposing proprietary code.
+I am **Nyxeira**, a multidisciplinary software engineer and product builder behind **Slime Studio**. I turn ambitious ideas into complete products—from native C++ VR utilities and real-time community platforms to game infrastructure, automation, backend services, and Linux deployments.
 
-## Featured work
+Most of my repositories are private because they contain active products, internal infrastructure, professional work, or unreleased systems. This profile documents the engineering behind them without exposing proprietary source code.
 
-| Project | What it is | Core technologies |
-|---|---|---|
-| **Slime Watch** | Released SteamVR utility suite with wrist menus, overlays, desktop tools, and immersive UI | C++, OpenVR, SteamVR, HTML, CSS, JavaScript |
-| **Slime Chat** | Self-hosted real-time social and community platform | TypeScript, React, Next.js, Node.js, MongoDB, Redis, Docker |
-| **SlimeBot** | Modular Discord community platform with moderation, music, economy, tickets, and integrations | JavaScript, Discord.js, Express, SQLite, FFmpeg |
-| **Slime Idle** | Idle-game ecosystem with web services, desktop tooling, shared systems, and sprite production | Node.js, Electron, JavaScript, databases |
-| **Minecraft Infrastructure** | Paper server platform, plugins, custom menus, HUDs, resource packs, and Java/Bedrock support | Java, YAML, Skript, Geyser, Paper |
-| **Cabinet Aurélia** | Secure full-stack medical-practice demonstration | Node.js, Express, JWT, bcrypt, HTML, CSS |
-| **Lavalink Infrastructure** | Reproducible audio-node deployment for community services | Java, Lavalink, YAML, Linux |
+## Amadeuse OS
 
-## Technical stack
+> A personal operating system project derived from **Arch Linux**, designed as a fast, expressive, and highly customized creative workstation.
 
-### Programming languages
+Amadeuse OS is being built around a carefully integrated **Hyprland** desktop, a developer-focused toolchain, system automation, coherent visual identity, and workflows tailored for software, VR, content, and infrastructure work.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+```text
+Foundation     Arch Linux
+Compositor     Hyprland / Wayland
+Focus          Performance · customization · development · creative work
+Direction      Reproducible setup · cohesive UX · automation · maintainability
+Status         In active development
+```
+
+## Featured projects
+
+| Project | Engineering scope | Core technology |
+|:--|:--|:--|
+| **⌚ Slime Watch** | Released SteamVR utility suite with wrist menus, overlays, controller bindings, native tools, and immersive interfaces | **C++**, SteamVR, OpenVR, ImGui, HTML/CSS/JS |
+| **💬 Slime Chat** | Self-hosted real-time social platform with messaging, communities, moderation, administration, and feeds | TypeScript, React, Next.js, Node.js, MongoDB, Redis |
+| **🤖 SlimeBot** | Modular Discord platform for moderation, music, economy, tickets, levels, and integrations | JavaScript, Discord.js, Express, SQLite, FFmpeg |
+| **🟢 Slime Idle** | Idle-game ecosystem with web services, Electron tooling, shared modules, and sprite production | Node.js, Electron, JavaScript, databases |
+| **🎼 Lavalink Infrastructure** | Reproducible audio infrastructure for real-time community services | Java, Lavalink, YAML, Linux |
+| **⛏️ Minecraft Engineering** | Paper ecosystem, Java/Bedrock compatibility, plugins, menus, HUDs, and resource packs | Java, Paper, Geyser, Skript, YAML |
+| **🏥 Cabinet Aurélia** | Secure full-stack medical-practice product demonstration | Node.js, Express, JWT, bcrypt, HTML/CSS |
+
+## Engineering stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Native, VR and desktop
+
+![SteamVR](https://img.shields.io/badge/SteamVR-1A1A1A?style=flat-square&logo=steam&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Native-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+`C++` · `OpenVR` · `SteamVR` · `ImGui` · `Visual Studio` · controller bindings · overlays · immersive UI
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Frontend and desktop
-
-React · Next.js · Electron · HTML5 · CSS3 · responsive UI · immersive UI
+`React` · `Next.js` · responsive design · desktop UI · immersive UI · design systems
 
 ### Backend and real-time systems
 
-Node.js · Express · Discord.js · REST APIs · authentication · WebSockets · background services
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 
-### Databases and data
+`REST APIs` · `WebSockets` · authentication · authorization · background workers · community automation
 
-MongoDB · Redis · SQLite · SQL · data migrations · caching
+### Databases
 
-### C++ and VR development
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-C++ · Visual Studio · SteamVR · OpenVR · native Windows development · controller bindings · VR overlays · ImGui
+`SQL` · data modeling · caching · migrations · persistence · audit systems
 
-**Slime Watch** is a major C++ project in my portfolio: a released SteamVR utility suite with a native VR core, wrist-based interaction, desktop overlays, international controller bindings, and headset-focused interfaces.
+### Operating systems and infrastructure
 
-### Game and Minecraft engineering
+![Arch Linux](https://img.shields.io/badge/Amadeuse_OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-Paper · Java plugins · Geyser · Floodgate · BetterHud · Skript · custom resource packs · Java/Bedrock interoperability
+`Hyprland` · `Wayland` · `Docker Compose` · `Caddy` · VPS administration · TLS · reverse proxies · deployment automation
 
-### Infrastructure and DevOps
+### Game and platform engineering
 
-Linux · Windows · Docker · Docker Compose · Caddy · Nginx · GitHub Actions · VPS administration · reverse proxies · TLS · service deployment
+`Paper` · `Geyser` · `Floodgate` · `BetterHud` · `Skript` · Java plugins · resource packs · Java/Bedrock interoperability
 
-### Build systems and engineering tools
+### Build and delivery
 
-Git · GitHub · Maven · npm · Visual Studio · FFmpeg · YAML · Bash automation
+`Git` · `GitHub` · `GitHub Actions` · `Maven` · `npm` · `FFmpeg` · `YAML` · shell automation
 
-## What I do
+## What I build
 
-- design maintainable product and service architectures;
-- build real-time, community, backend, and administrative systems;
-- create native VR utilities and headset-focused interfaces;
-- operate Linux VPS services, reverse proxies, databases, and deployments;
-- develop automation, bots, moderation tools, and third-party integrations;
-- build Minecraft server experiences across Java and Bedrock;
-- turn prototypes into documented, deployable products.
-
-## Engineering values
-
-I care about practical results, clear interfaces, secure defaults, reproducible deployments, useful documentation, and products that remain maintainable after launch.
+- native C++ and VR software;
+- complete web platforms and real-time services;
+- Linux systems and reproducible development environments;
+- game tooling and multiplayer infrastructure;
+- bots, moderation systems, automation, and integrations;
+- secure dashboards, APIs, and professional applications;
+- products designed to remain useful and maintainable after launch.
 
 <div align="center">
 
-### Building useful worlds, tools, and communities—one system at a time.
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:6d28d9,100:111827&height=130&section=footer)
 
 </div>
