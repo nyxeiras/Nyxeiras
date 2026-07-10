@@ -6,58 +6,39 @@
 
 </div>
 
-```ansi
-%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@%@@@%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%@@@%%%%%%@%%%%%%%%%%%@%%%%%%@@@@@@@%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%@@%@@@@@%#*++++++**##%%%%@%%@@@@@@%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%@@@@@@%%@%*+++===++=++++*%%%@@%@@@@%@@@%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%@@@@@%%@@#+++============+#%%%@@%@@@@%@@@@%%%%%%%%%%#%%%%%%
-%%%%%%%%%@@@@@%%%@#*+++============++%%%#%@@@@@@@@@@@%%%%%%%%%%%%%%%%
-%%%%%%%%%@@@@@%%@%**+++=============+*%%*#%@@@@@@@@@@@%%%%%%%%%%%%%%%
-%%%%%%%%%@@@@%@%@%**++++==========++*#%@@@@@@@%@@@@@@@@%%%%%%%%%%%%%%
-%%%%%%%%@@@@@%@@%%***+++=====+++++*#%@@%%###%%%%%@@@@@@%%%%%%%%%%%%%%
-%%%%%%%%@@@@%%@@@%***+++++*#%%%###%@@%%%%#%%%%%%%%@@@@@%%%%%%%%%%%%%%
-%%%%%%%%@@@@%%@@@%#****#%%%%%%%%@@%%%%%%%%%%%#**#%@@@@@@%%%%%%%%%%%%%
-%%%%%%%%@@@@@@@@@%###%%%####%%%%%%+=+#%######***##%@@@@@@%%%%%%%%%%%%
-%%%%%%%%%@@@@@@@@@%@%%%#%%%%#####%*+==*#######****#@@@@@@%%%%%%%%%%%%
-%%%%%%%%@@@@@@@@@@@@%%%%%%%%#%#*##*+===+*********##%@@@@@%%%%%%%%%%%%
-%%%%%%%%%@%@@@@@@@@%%########**#%**++=+*##++++++**##%@@@%%%%%%%%%%%%%
-%%%%%%%%%@@%@@@@@@@%#%******#*****#%%%%%%%*+=++++**#%%@%%#******#%%%%
-%%%%%%%%%@@@%@@@@@@%#**********++*#%@%%%%##*++++***#%@@@@@%%%%%%##**#
-%%%%%%%%%@@@@@@@@@@@%##******++++++#%%%%%#######**##%@@@@%%%%%%%%%%%%
-%%%%%%%%%%@@@@@@@@@@@%####**+++++++*#%%%%%%%@@%#####@@@@@@%%%%%%%%%%@
-%%%%%%%%%%%@@@@@@@@@@@%%##****+++*##%@%***###****##%@@@@@@@%%%%%%@@@@
-%%%%%%%%%%#%%@@@@@@@%%%%%###****##%%####%%%##***##%@@@@@@@%%%%%%%@@@@
-%%%%%%#%%*+**@@@@@@@@%%%%%%###****#****######*++**#%%@@@@@@@@@%%%%%%%%
-%%%%%%%%#++*%%%@@@@@@@%@@@%%%#########**+**#**#%%%%%@@@@@@@@@@@%@@%@@
-%%%%%%%%***%%%%@@@@@@@@@@@@@%%%%%%%##****####%%%@@%%%%%@@@@@@@@@@@@@@
-%%%%%%%***%%%%%%@@@@@@@@@@@@@@@%%%%%%%%##%%%@@@@@%%%%#**@@@@@@@@@@@@@
-%%%%%%%**#%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%#%%%#+#@@@@@@@@@@@
-%%%%%%##*#%%%%@@@@@@@@@@@@@@@@%%%%%@@@@@@@@@@%%%%%%##%%%*=#@@@@@@@@@@
-%%%%%%###%%%%@@@@@@@@@%%@@@@@@%#%%%%%%%%%%%%%%%%%####%%##+=*@@@@@@@@@
-%%%%%@###%%%%%@@@@@%%%@@@@@@@@@#+*%%%%%%%%%%%%%######%%##*+=+%@@@@@@@
-%%%%%%%##%@@@@@@@%*#%@@@@@@@@@@@*+=+%%%%%%%%%%%#####%%%#**+*%#@@@@@@@
-%%%%%%%%%%%@@@%###%@@@@@@@@@@@@@%+++==*#%%%%%%%%####%###**+*%#%@@@@@@
-%%%%%%%%%%@%####%@@@@@@@@@@@@@@@@@**++===+*%%%%%#######*#*+%%#%@@@@@@
-%%%%%%%%@%####%@@@@@@@@@@@@@@@@@@@@#**++=====+#########***%@@#%@@@@@@
-%%%%%%@%####%@@@@@@@@@@@@@@@@@@@@@@@#*+++++====#**###*****%%%@@@@@@@@
-@@@%@@####%@@@@@@@@@@@@@@@@@@@@@@@@@@%*+++++++#%##*******#%###%@@@@@@
-@@@@%###%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+++++*%##%%#####*###**#%@@@@@
-```
-
-```yaml
-user: nyxeira@amadeuse
-identity: Nyxeira / Slime Studio
-role: Software Engineer & Product Builder
-operating_system: Amadeuse OS
-foundation: Arch Linux
-desktop: Hyprland / Wayland
-languages: [C++, TypeScript, JavaScript, Java, Python, Bash]
-vr_stack: [SteamVR, OpenVR, ImGui]
-web_stack: [React, Next.js, Node.js]
-systems: [Docker, Linux, Nginx, Caddy]
-currently_building: Products, worlds, operating systems, and communities
+```bash
+╭──────────────────────────────────────────────────────────────────────────────╮
+│  AMADEUSE OS                                              nyxeira@amadeuse  │
+│  Creative workstation · Engineering environment · Built on Arch Linux       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│       █████╗ ███╗   ███╗ █████╗ ██████╗ ███████╗██╗   ██╗███████╗███████╗   │
+│      ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝   │
+│      ███████║██╔████╔██║███████║██║  ██║█████╗  ██║   ██║███████╗█████╗     │
+│      ██╔══██║██║╚██╔╝██║██╔══██║██║  ██║██╔══╝  ██║   ██║╚════██║██╔══╝     │
+│      ██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝███████╗╚██████╔╝███████║███████╗   │
+│      ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚══════╝   │
+│                                                                              │
+├─ SYSTEM ───────────────────────────┬─ ENGINEERING ────────────────────────────┤
+│ OS        Amadeuse OS              │ Languages   C++ · TS · JS · Java · Py   │
+│ Base      Arch Linux               │ Native      SteamVR · OpenVR · ImGui    │
+│ Desktop   Hyprland / Wayland       │ Web         React · Next.js · Node.js   │
+│ Shell     Bash                     │ Data        MongoDB · Redis · SQLite    │
+│ Focus     Creative workstation     │ Infra       Docker · Nginx · Caddy      │
+├────────────────────────────────────┴──────────────────────────────────────────┤
+│ ACTIVE PROJECTS                                                              │
+│  [01] Slime Watch     C++ / SteamVR utility suite          RELEASED          │
+│  [02] Amadeuse OS     Arch-based creative workstation      BUILDING          │
+│  [03] Slime Chat      Real-time social platform            ACTIVE            │
+│  [04] SlimeBot        Discord community platform           ACTIVE            │
+│  [05] Slime Idle      Game and creation ecosystem          DEVELOPMENT       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ $ mission --current                                                         │
+│ > Building useful products, immersive tools, systems, worlds and communities │
+│                                                                              │
+│ $ status                                                                     │
+│ > learning · engineering · shipping · improving                             │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ## `whoami`
@@ -164,6 +145,13 @@ Status         In active development
 - products designed to remain useful and maintainable after launch.
 
 <div align="center">
+
+## Development overview
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nyxeiras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111827&title_color=8b5cf6&icon_color=22c55e&text_color=e5e7eb" alt="Nyxeira GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxeiras&layout=compact&theme=tokyonight&hide_border=true&bg_color=111827&title_color=8b5cf6&text_color=e5e7eb" alt="Most used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxeiras&bg_color=111827&color=e5e7eb&line=8b5cf6&point=22c55e&area=true&hide_border=true" alt="Nyxeira contribution activity" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=nyxeiras&label=PROFILE+VISITORS&color=7c3aed&style=for-the-badge)
 
