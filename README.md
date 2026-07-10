@@ -1,16 +1,8 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:6d28d9,100:22c55e&height=210&section=header&text=NYXEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Slime%20Studio&descAlignY=58&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=C%2B%2B+%26+SteamVR+Engineer;Building+Amadeuse+OS+on+Arch+Linux;Creator+of+Slime+Watch+and+Slime+Chat;Full-stack%2C+Infrastructure+%26+Game+Development)](https://git.io/typing-svg)
-
-</div>
-
 ```bash
-╭──────────────────────────────────────────────────────────────────────────────╮
-│  AMADEUSE OS                                              nyxeira@amadeuse  │
-│  Creative workstation · Engineering environment · Built on Arch Linux       │
-├──────────────────────────────────────────────────────────────────────────────┤
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  AMADEUSE OS                                                                       nyxeira@amadeuse  │
+│  Creative workstation · Engineering environment · Personal operating system                          │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │       █████╗ ███╗   ███╗ █████╗ ██████╗ ███████╗██╗   ██╗███████╗███████╗   │
 │      ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝   │
@@ -19,27 +11,37 @@
 │      ██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝███████╗╚██████╔╝███████║███████╗   │
 │      ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚══════╝   │
 │                                                                              │
-├─ SYSTEM ───────────────────────────┬─ ENGINEERING ────────────────────────────┤
-│ OS        Amadeuse OS              │ Languages   C++ · TS · JS · Java · Py   │
-│ Base      Arch Linux               │ Native      SteamVR · OpenVR · ImGui    │
-│ Desktop   Hyprland / Wayland       │ Web         React · Next.js · Node.js   │
-│ Shell     Bash                     │ Data        MongoDB · Redis · SQLite    │
-│ Focus     Creative workstation     │ Infra       Docker · Nginx · Caddy      │
-├────────────────────────────────────┴──────────────────────────────────────────┤
-│ ACTIVE PROJECTS                                                              │
-│  [01] Slime Watch     C++ / SteamVR utility suite          RELEASED          │
-│  [02] Amadeuse OS     Arch-based creative workstation      BUILDING          │
-│  [03] Slime Chat      Real-time social platform            ACTIVE            │
-│  [04] SlimeBot        Discord community platform           ACTIVE            │
-│  [05] Slime Idle      Game and creation ecosystem          DEVELOPMENT       │
-├──────────────────────────────────────────────────────────────────────────────┤
-│ $ mission --current                                                         │
-│ > Building useful products, immersive tools, systems, worlds and communities │
-│                                                                              │
-│ $ status                                                                     │
-│ > learning · engineering · shipping · improving                             │
-╰──────────────────────────────────────────────────────────────────────────────╯
+├─ SYSTEM ────────────────────────────────────────┬─ ENGINEERING ───────────────────────────────────────┤
+│ OS          Amadeuse OS                        │ Languages     C++ · TypeScript · JavaScript · Java   │
+│ Desktop     Hyprland / Wayland                 │ Scripting     Python · Bash                         │
+│ Shell       Bash                               │ Native        SteamVR · OpenVR · ImGui              │
+│ Workflow    Creative engineering workstation   │ Web           React · Next.js · Node.js             │
+│ Status      In active development              │ Data          MongoDB · Redis · SQLite              │
+│                                                │ Infrastructure Docker · Linux · Nginx · Caddy       │
+├────────────────────────────────────────────────┴─────────────────────────────────────────────────────┤
+│ ACTIVE PROJECTS                                                                                       │
+│  [01] Slime Watch       C++ / SteamVR utility suite                         RELEASED                  │
+│  [02] Amadeuse OS       Personal creative operating system                  BUILDING                  │
+│  [03] Slime Chat        Real-time social and community platform             ACTIVE                    │
+│  [04] SlimeBot          Discord automation and community platform           ACTIVE                    │
+│  [05] Slime Idle        Game, services and creation ecosystem               DEVELOPMENT               │
+│  [06] Infrastructure    Linux services, deployments and automation           OPERATING                 │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ $ mission --current                                                                                   │
+│ > Building useful products, immersive tools, operating systems, worlds and communities               │
+│                                                                                                      │
+│ $ status                                                                                             │
+│ > learning · engineering · shipping · operating · improving                                          │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:6d28d9,100:22c55e&height=210&section=header&text=NYXEIRA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Slime%20Studio&descAlignY=58&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=C%2B%2B+%26+SteamVR+Engineer;Building+Amadeuse+OS;Creator+of+Slime+Watch+and+Slime+Chat;Full-stack%2C+Infrastructure+%26+Game+Development)](https://git.io/typing-svg)
+
+</div>
 
 ## `whoami`
 
@@ -49,12 +51,11 @@ Most of my repositories are private because they contain active products, intern
 
 ## Amadeuse OS
 
-> A personal operating system project derived from **Arch Linux**, designed as a fast, expressive, and highly customized creative workstation.
+> A personal operating system project designed as a fast, expressive, and highly customized creative workstation.
 
 Amadeuse OS is being built around a carefully integrated **Hyprland** desktop, a developer-focused toolchain, system automation, coherent visual identity, and workflows tailored for software, VR, content, and infrastructure work.
 
 ```text
-Foundation     Arch Linux
 Compositor     Hyprland / Wayland
 Focus          Performance · customization · development · creative work
 Direction      Reproducible setup · cohesive UX · automation · maintainability
@@ -119,7 +120,7 @@ Status         In active development
 
 ### Operating systems and infrastructure
 
-![Arch Linux](https://img.shields.io/badge/Amadeuse_OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Amadeuse OS](https://img.shields.io/badge/Amadeuse_OS-In_Development-8B5CF6?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=111827)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
