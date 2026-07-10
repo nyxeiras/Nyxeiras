@@ -1,38 +1,38 @@
 ```bash
-╭──────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│  AMADEUSE OS                                                                       nyxeira@amadeuse  │
-│  Creative workstation · Engineering environment · Personal operating system                          │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│       █████╗ ███╗   ███╗ █████╗ ██████╗ ███████╗██╗   ██╗███████╗███████╗   │
-│      ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝   │
-│      ███████║██╔████╔██║███████║██║  ██║█████╗  ██║   ██║███████╗█████╗     │
-│      ██╔══██║██║╚██╔╝██║██╔══██║██║  ██║██╔══╝  ██║   ██║╚════██║██╔══╝     │
-│      ██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝███████╗╚██████╔╝███████║███████╗   │
-│      ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚══════╝   │
-│                                                                              │
-├─ SYSTEM ────────────────────────────────────────┬─ ENGINEERING ───────────────────────────────────────┤
-│ OS          Amadeuse OS                        │ Languages     C++ · TypeScript · JavaScript · Java   │
-│ Desktop     Hyprland / Wayland                 │ Scripting     Python · Bash                         │
-│ Shell       Bash                               │ Native        SteamVR · OpenVR · ImGui              │
-│ Workflow    Creative engineering workstation   │ Web           React · Next.js · Node.js             │
-│ Status      In active development              │ Data          MongoDB · Redis · SQLite              │
-│                                                │ Infrastructure Docker · Linux · Nginx · Caddy       │
-├────────────────────────────────────────────────┴─────────────────────────────────────────────────────┤
-│ ACTIVE PROJECTS                                                                                       │
-│  [01] Slime Watch       C++ / SteamVR utility suite                         RELEASED                  │
-│  [02] Amadeuse OS       Personal creative operating system                  BUILDING                  │
-│  [03] Slime Chat        Real-time social and community platform             ACTIVE                    │
-│  [04] SlimeBot          Discord automation and community platform           ACTIVE                    │
-│  [05] Slime Idle        Game, services and creation ecosystem               DEVELOPMENT               │
-│  [06] Infrastructure    Linux services, deployments and automation           OPERATING                 │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ $ mission --current                                                                                   │
-│ > Building useful products, immersive tools, operating systems, worlds and communities               │
-│                                                                                                      │
-│ $ status                                                                                             │
-│ > learning · engineering · shipping · operating · improving                                          │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  AMADEUSE OS                                                                                nyxeira@amadeuse           │
+│  Creative workstation · Engineering environment · Personal operating system                                            │
+├────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                        │
+│       █████╗ ███╗   ███╗ █████╗ ██████╗ ███████╗██╗   ██╗███████╗███████╗                                              │
+│      ██╔══██╗████╗ ████║██╔══██╗██╔══██╗██╔════╝██║   ██║██╔════╝██╔════╝                                              │
+│      ███████║██╔████╔██║███████║██║  ██║█████╗  ██║   ██║███████╗█████╗                                                │
+│      ██╔══██║██║╚██╔╝██║██╔══██║██║  ██║██╔══╝  ██║   ██║╚════██║██╔══╝                                                │
+│      ██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝███████╗╚██████╔╝███████║███████╗                                              │
+│      ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚══════╝                                              │
+│                                                                                                                        │
+├─ SYSTEM ───────────────────────────────────────┬─ ENGINEERING ─────────────────────────────────────────────────────────┤
+│ OS          Amadeuse OS                        │ Languages     C++ · TypeScript · JavaScript · Java                    │
+│ Desktop     Hyprland / Wayland                 │ Scripting     Python · Bash                                           │
+│ Shell       Bash                               │ Native        SteamVR · OpenVR · ImGui                                │
+│ Workflow    Creative engineering workstation   │ Web           React · Next.js · Node.js                               │
+│ Status      In active development              │ Data          MongoDB · Redis · SQLite                                │
+│                                                │ Infrastructure Docker · Linux · Nginx · Caddy                         │
+├────────────────────────────────────────────────┴───────────────────────────────────────────────────────────────────────┤
+│ ACTIVE PROJECTS                                                                                                        │
+│  [01] Slime Watch       C++ / SteamVR utility suite                         RELEASED                                   │
+│  [02] Amadeuse OS       Personal creative operating system                  BUILDING                                   │
+│  [03] Slime Chat        Real-time social and community platform             ACTIVE                                     │
+│  [04] SlimeBot          Discord automation and community platform           ACTIVE                                     │
+│  [05] Slime Idle        Game, services and creation ecosystem               DEVELOPMENT                                │
+│  [06] Infrastructure    Linux services, deployments and automation           OPERATING                                 │
+├────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ $ mission --current                                                                                                    │
+│ > Building useful products, immersive tools, operating systems, worlds and communities                                 │
+│                                                                                                                        │
+│ $ status                                                                                                               │ 
+│ > learning · engineering · shipping · operating · improving                                                            │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
