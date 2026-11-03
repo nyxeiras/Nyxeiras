@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Nyxeira — I build AMADEUSE, my own OS, assistant and devices, and games at Slime Studio.">
+  <img src="assets/hero-light.svg" width="100%" alt="Nyxeira — developer and maker behind AMADEUSE and Slime Studio.">
 </picture>
 
 <br><br>
@@ -21,8 +21,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ecosystem-dark.svg">
-  <img src="assets/ecosystem-light.svg" width="100%" alt="The AMADEUSE ecosystem: AMADEUSE OS, AMADEUSE assistant, Watcher, Phone, Deck, Nodes, Slime Studio and more">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/amadeuse-dark.svg">
+  <img src="assets/amadeuse-light.svg" width="100%" alt="AMADEUSE: my own brand and main project, a personal computing world built around one assistant. Slime Studio: games and community tools.">
 </picture>
 
 <br><br>
@@ -36,7 +36,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
-  <img src="assets/skills-light.svg" width="100%" alt="What I do">
+  <img src="assets/skills-light.svg" width="100%" alt="What I can do">
 </picture>
 
 <br><br>
@@ -56,5 +56,6 @@
 <br><br>
 
 ![Profile visitors](https://komarev.com/ghpvc/?username=nyxeiras&label=VISITORS&color=475d91&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/nyxeiras?style=flat-square&logo=github&label=FOLLOWERS&color=00b343)
 
 </div>
